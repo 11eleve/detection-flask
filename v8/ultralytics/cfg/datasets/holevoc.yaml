@@ -1,0 +1,8 @@
+train: holedatav4/dataSet_path/train.txt
+val: holedatav4/dataSet_path/val.txt
+
+# number of classes
+nc: 5
+
+# class names
+names: ["good", "broke", "lose", "uncovered", "circle"]
